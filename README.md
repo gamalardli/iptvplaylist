@@ -240,3 +240,213 @@ http://tv.wakds.xyz:8080/pptvy/76937/4389
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Sport_KUY",CCTV5+
 http://tv.wakds.xyz:8080/pptvy/76937/4390
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",ATV
+https://nonton.site:8443/novi/novi123/29899
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",AXN
+https://nonton.site:8443/novi/novi123/9
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Bioskop Indonesia
+https://nonton.site:8443/novi/novi123/908
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Blue Ant Extreme HD
+https://nonton.site:8443/novi/novi123/811
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",CCM
+https://nonton.site:8443/novi/novi123/2118
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Celestial Movies
+https://nonton.site:8443/novi/novi123/5
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Cinema World
+https://nonton.site:8443/novi/novi123/1194
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Cinemax FHD
+https://nonton.site:8443/novi/novi123/30185
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Cinemax ID
+https://nonton.site:8443/novi/novi123/2156
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Cinemax SD
+https://nonton.site:8443/novi/novi123/26599
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",FLIK HD
+https://nonton.site:8443/novi/novi123/29592
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",FMN
+https://nonton.site:8443/novi/novi123/11489
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",FOX Action Movies FHD
+https://nonton.site:8443/novi/novi123/1478
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",FOX Action Movies HD
+https://nonton.site:8443/novi/novi123/99
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",FOX Crime HD
+https://nonton.site:8443/novi/novi123/763
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",FOX Family Movies ID
+https://nonton.site:8443/novi/novi123/14994
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",FOX HD
+https://nonton.site:8443/novi/novi123/95
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",FOX Life HD
+https://nonton.site:8443/novi/novi123/94
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",FOX Movies HD
+https://nonton.site:8443/novi/novi123/98
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Galaxy Premium SD
+https://nonton.site:8443/novi/novi123/29603
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Galaxy SD
+https://nonton.site:8443/novi/novi123/29604
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",HBO Family FHD
+https://nonton.site:8443/novi/novi123/30184
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",HBO Family HD
+https://nonton.site:8443/novi/novi123/592
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",HBO Family SD
+https://nonton.site:8443/novi/novi123/26598
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",HBO FHD
+https://nonton.site:8443/novi/novi123/1496
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",HBO HD
+https://nonton.site:8443/novi/novi123/210
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",HBO Hits FHD
+https://nonton.site:8443/novi/novi123/11492
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",HBO Hits HD
+https://nonton.site:8443/novi/novi123/591
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",HBO Hits SD
+https://nonton.site:8443/novi/novi123/26596
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",HBO SD
+https://nonton.site:8443/novi/novi123/26595
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",HBO Signature FHD
+https://nonton.site:8443/novi/novi123/1498
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",HBO Signature HD
+https://nonton.site:8443/novi/novi123/873
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",HBO Signature SD
+https://nonton.site:8443/novi/novi123/26597
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",HITS HD
+https://nonton.site:8443/novi/novi123/1195
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Hits Movie SD
+https://nonton.site:8443/novi/novi123/957
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",IMC SD
+https://nonton.site:8443/novi/novi123/35484
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",& Picture
+https://nonton.site:8443/novi/novi123/31875
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",&TV HD
+https://nonton.site:8443/novi/novi123/31876
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",KIX HD
+https://nonton.site:8443/novi/novi123/8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",LifeTime HD
+https://nonton.site:8443/novi/novi123/866
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Red By HBO HD
+https://nonton.site:8443/novi/novi123/4832
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Star Chinese Movies HD
+https://nonton.site:8443/novi/novi123/780
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Star Chinese Movies Legend
+https://nonton.site:8443/novi/novi123/1859
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Star World
+https://nonton.site:8443/novi/novi123/381
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Thrill
+https://nonton.site:8443/novi/novi123/4
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Warner TV ID HD
+https://nonton.site:8443/novi/novi123/1533
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Zee Bioskop
+https://nonton.site:8443/novi/novi123/7
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Animal Planet HD
+https://nonton.site:8443/novi/novi123/358
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",BBC Earth
+https://nonton.site:8443/novi/novi123/385
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Crime Investigation
+https://nonton.site:8443/novi/novi123/332
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Da Vinci Learning
+https://nonton.site:8443/novi/novi123/36729
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Discovery Asia
+https://nonton.site:8443/novi/novi123/779
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Discovery Channel HD
+https://nonton.site:8443/novi/novi123/165
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Discovery Science HD
+https://nonton.site:8443/novi/novi123/408
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Discovery Shed
+https://nonton.site:8443/novi/novi123/333
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Discovery Turbo
+https://nonton.site:8443/novi/novi123/462
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",History FHD
+https://nonton.site:8443/novi/novi123/8131
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",History HD
+https://nonton.site:8443/novi/novi123/718
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Lingua Channel
+https://nonton.site:8443/novi/novi123/14944
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Love Nature 4K
+https://nonton.site:8443/novi/novi123/36767
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Nat Geo HD
+https://nonton.site:8443/novi/novi123/96
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Nat Geo People HD
+https://nonton.site:8443/novi/novi123/455
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Nat Geo Wild HD
+https://nonton.site:8443/novi/novi123/97
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Ruang Terampil
+https://nonton.site:8443/novi/novi123/36731
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Smithsonian Channel
+https://nonton.site:8443/novi/novi123/35998
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",TV Edukasi
+https://nonton.site:8443/novi/novi123/36732
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",.idku
+https://nonton.site:8443/novi/novi123/36730
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",AFN HD
+https://nonton.site:8443/novi/novi123/807
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",BBC Lifestyle HD
+https://nonton.site:8443/novi/novi123/36766
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Blue Ant Entertainment HD
+https://nonton.site:8443/novi/novi123/1506
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Citra Drama
+https://nonton.site:8443/novi/novi123/905
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",DMAX
+https://nonton.site:8443/novi/novi123/483
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Eat & Go
+https://nonton.site:8443/novi/novi123/26979
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Every Good Game
+https://nonton.site:8443/novi/novi123/921
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Fashion TV
+https://nonton.site:8443/novi/novi123/280
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",HGTV
+https://nonton.site:8443/novi/novi123/537
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Insert
+https://nonton.site:8443/novi/novi123/1763
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",NHK World Japan
+https://nonton.site:8443/novi/novi123/785
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",TLC English
+https://nonton.site:8443/novi/novi123/351
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",TLC HD
+https://nonton.site:8443/novi/novi123/352
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",TV 5 Monde Asie
+https://nonton.site:8443/novi/novi123/786
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Waku Waku Japan HD
+https://nonton.site:8443/novi/novi123/717
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",K Drama
+https://nonton.site:8443/novi/novi123/35769
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",K Plus
+https://nonton.site:8443/novi/novi123/18
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",KBS World HD
+https://nonton.site:8443/novi/novi123/15057
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",S GEM HD
+https://nonton.site:8443/novi/novi123/770
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Sony ONE
+https://nonton.site:8443/novi/novi123/19
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",TVN ID
+https://nonton.site:8443/novi/novi123/767
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",tVN Movies HD
+https://nonton.site:8443/novi/novi123/927
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Channel V HD
+https://nonton.site:8443/novi/novi123/766
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Citra Dangdut
+https://nonton.site:8443/novi/novi123/2207
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",i konser
+https://nonton.site:8443/novi/novi123/29594
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",MTV
+https://nonton.site:8443/novi/novi123/281
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",MTV Dance
+https://nonton.site:8443/novi/novi123/288
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",MTV LIVE HD
+https://nonton.site:8443/novi/novi123/9110
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",MTV Music
+https://nonton.site:8443/novi/novi123/286
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",NRJ Hits TV
+https://nonton.site:8443/novi/novi123/29836
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",ONE African TV
+https://nonton.site:8443/novi/novi123/1731
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Prambors TV
+https://nonton.site:8443/novi/novi123/1157
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Chinese Drama
+https://nonton.site:8443/novi/novi123/36733
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",CTI Asia
+https://nonton.site:8443/novi/novi123/29602
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",ETTV Asia
+https://nonton.site:8443/novi/novi123/29597
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Formosa
+https://nonton.site:8443/novi/novi123/29601
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",Kungfu TV
+https://nonton.site:8443/novi/novi123/29598
+
+
